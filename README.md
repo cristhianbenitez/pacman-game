@@ -27,4 +27,4 @@ Math.random()
 
 
 #######Github Corners Credits
-[Tim Holman] (http://tholman.com)
+[Tim Holman](http://tholman.com)
