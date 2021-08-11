@@ -1,5 +1,5 @@
 # pacman-game
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0c392e8d-41bb-44f6-9898-ed2005619edf/deploy-status)](https://app.netlify.com/sites/pacman-sample/deploys)
+![Pacman Game](https://i.imgur.com/vCcoXZ5.png)
 ---
 ##Pacman Game
 Game created using the following javascript methods:  
