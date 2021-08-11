@@ -24,3 +24,7 @@ constructor()
 setInterval()          
 Math.floor()             
 Math.random()    
+
+
+#######Github Corners Credits
+[Tim Holman] (http://tholman.com)
