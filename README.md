@@ -26,5 +26,5 @@ Math.floor()
 Math.random()    
 
 
-#######Github Corners Credits
+## Github Corners Credits
 [Tim Holman](http://tholman.com)
